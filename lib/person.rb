@@ -10,3 +10,4 @@ end
 
 beyonce = Person.new 
 beyonce.name = "Beyonce"
+beyonce.instance_variable_set(:@name_of_person) = "Beyonce"
