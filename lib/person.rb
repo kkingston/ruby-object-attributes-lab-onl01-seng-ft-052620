@@ -21,3 +21,4 @@ beyonce = Person.new
 beyonce.name = "Beyonce"
 beyonce.instance_variable_set(:@name, "Beyonce") 
 beyonce.job = "Singer"
+beyonce.instance_variable_set(:@job, "Singer") 
